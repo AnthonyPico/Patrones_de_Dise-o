@@ -1,0 +1,14 @@
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\obj\Debug\net7.0\Patron de Diseño MVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\obj\Debug\net7.0\Patron de Diseño MVP.AssemblyInfoInputs.cache
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\obj\Debug\net7.0\Patron de Diseño MVP.AssemblyInfo.cs
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\obj\Debug\net7.0\Patron de Diseño MVP.csproj.CoreCompileInputs.cache
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\bin\Debug\net7.0\Patron de Diseño MVP.exe
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\bin\Debug\net7.0\Patron de Diseño MVP.deps.json
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\bin\Debug\net7.0\Patron de Diseño MVP.runtimeconfig.json
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\bin\Debug\net7.0\Patron de Diseño MVP.dll
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\bin\Debug\net7.0\Patron de Diseño MVP.pdb
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\obj\Debug\net7.0\Patron de Diseño MVP.dll
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\obj\Debug\net7.0\refint\Patron de Diseño MVP.dll
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\obj\Debug\net7.0\Patron de Diseño MVP.pdb
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\obj\Debug\net7.0\Patron de Diseño MVP.genruntimeconfig.cache
+C:\Users\baque\OneDrive\Pictures\Patron de Diseño MVP\obj\Debug\net7.0\ref\Patron de Diseño MVP.dll

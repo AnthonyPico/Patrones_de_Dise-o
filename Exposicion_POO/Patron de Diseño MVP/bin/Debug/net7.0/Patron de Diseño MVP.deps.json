@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Patron de Diseño MVP/1.0.0": {
+        "runtime": {
+          "Patron de Diseño MVP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patron de Diseño MVP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
